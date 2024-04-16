@@ -151,3 +151,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/practicum_1
+/practicum_2
+/practicum_3
+/practicum_5
+/practicum_6
+config.yaml
